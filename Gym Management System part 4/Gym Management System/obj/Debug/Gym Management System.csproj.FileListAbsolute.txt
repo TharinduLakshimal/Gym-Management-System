@@ -1,0 +1,25 @@
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Form1.resources
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.NewMember.resources
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.newStaff.resources
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Equipment.resources
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.searchMember.resources
+E:\Vavuniya\2-1\Visual Programming\Project 1\Gym Manafement System\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DeleteMember.resources
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.searchMember.resources
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\New\Desktop\Gym management Resources\project parts\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
